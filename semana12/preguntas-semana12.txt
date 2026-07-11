@@ -9,3 +9,4 @@ Pregunta 3: ¿Por qué es importante minimizar los datos personales en sistemas 
 Respuesta: A - Para evitar almacenar información innecesaria o sensible.
 
 Pregunta 4: ¿Qué función puede cumplir n8n o Telegram en una plataforma comunitaria?
+Respuesta: A - Enviar notificaciones automáticas cuando ocurre un evento en el sistema
