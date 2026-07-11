@@ -1,8 +1,0 @@
-Durante este curso aprendí que la tecnología puede fortalecer la participación ciudadana 
-y la organización comunitaria. También comprendí la importancia de proteger los datos 
-personales de las personas. Aprendí que las bases de datos permiten organizar mejor la 
-información y hacer seguimiento a los procesos. Las automatizaciones ayudan a ahorrar 
-tiempo y mejorar la comunicación. Además, entendí que herramientas como n8n y Telegram 
-facilitan el envío de notificaciones de forma responsable. También conocí la importancia 
-de usar software libre y mantener la seguridad de la información. Todo esto contribuye a 
-generar confianza en la comunidad y mejorar el trabajo colaborativo.

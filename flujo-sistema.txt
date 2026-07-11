@@ -1,5 +1,0 @@
-1. Un ciudadano crea una causa.
-2. La causa queda registrada en la base de datos.
-3. Otros ciudadanos apoyan la causa.
-4. El sistema cuenta automáticamente los apoyos.
-5. El sistema genera un documento PDF con la petición para ser compartida.
